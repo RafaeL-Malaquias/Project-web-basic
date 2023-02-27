@@ -25,5 +25,7 @@ body {
 }
 
 .hero-content h1 {
+    text-transform: uppercase;
+    text-shadow: 3px 3px 3px rgb(48, 48, 48)
 
 }
