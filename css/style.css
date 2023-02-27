@@ -29,5 +29,15 @@ body {
 main {
     width: 80%;
     margin: auto;
-    
+
 }
+.content-section {
+    text-align: center;
+    background-color: white;
+    padding: 15px;
+    margin-top: 205px;
+}
+.content-header {
+    padding: 10px;
+}
+
