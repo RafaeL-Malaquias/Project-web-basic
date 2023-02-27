@@ -14,9 +14,6 @@ body {
     height: 500px;
     background-position: right center ;
     background-size: cover ;
-
-
-
 }
 .hero-content {
     text-align: center;
@@ -28,4 +25,9 @@ body {
     text-transform: uppercase;
     text-shadow: 3px 3px 3px rgb(48, 48, 48)
 
+}
+main {
+    width: 80%;
+    margin: auto;
+    
 }
