@@ -42,8 +42,8 @@ main {
 }
 .rodape{
     text-align: center;
-    border-radius: 2px 2px 2px black;
-    background-color: darkturquoise;
-    padding: 10px;
+    border-radius: 4px 5px 5px;
+    background-color: rgb(112, 112, 112);
+    padding: 1px;
 }
 
