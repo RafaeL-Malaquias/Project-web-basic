@@ -37,12 +37,10 @@ main {
     padding: 15px;
     margin-top: 205px;
 }
-.content-header {
-    padding: 10px;
-}
-.rodape{
+
+.rodape {
     text-align: center;
     background-color: rgb(112, 112, 112);
-    padding: 1px;
+ 
 }
 
