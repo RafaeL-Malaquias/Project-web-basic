@@ -9,10 +9,10 @@ body {
 
 .hero {
     background-image: url(../imagens/bg-3.jpg);
-    height: 500px;
+    height: 200px;
     background-position: right center ;
     background-size: cover;
-    max-width: 1024px;
+    max-width: 910px;
     margin: auto;
     border-radius: 10px;
     padding: 5px;
