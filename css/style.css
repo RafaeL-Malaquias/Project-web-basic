@@ -15,7 +15,7 @@ body{
 .hero-content{
     text-align: center;
     color: white;
-    margin-top: 150px;
+    margin-top: -300px;
 }
 
 .hero-content h1{
@@ -54,12 +54,14 @@ body{
 main{
     width: 80%;
     margin: auto;
+    
 }
 
 .content-section{
+    display: block;
     background-color: white;
     padding: 15px;
-    margin-top: 15px;
+    margin-top: 200px;
 }
 .content-header{
     border-bottom: solid 2px #ccc;
